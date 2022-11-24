@@ -1,20 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T08:38:26.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="y0MiKSaxyjsQlMZxJfSR" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T12:18:16.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Y-NRHjNuYX2TCO4ODRms" version="20.5.3" type="github">
   <diagram id="N5WR_CQhTeOgYyPtE60l" name="第 1 页">
     <mxGraphModel dx="1732" dy="999" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="1029" width="503" height="475" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-89" y="546" width="465" height="448" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-53" y="-22" width="512" height="511" as="geometry" />
+        </mxCell>
         <mxCell id="9sTnAQBF27aZG5OhYkMY-1" value="距离感逐渐拉进的过程" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-12" y="-1" width="431" height="84" as="geometry" />
         </mxCell>
         <mxCell id="9sTnAQBF27aZG5OhYkMY-2" value="吸引是一种误解，无论怎么对一个人吸引，激情都是在两年之内会淡去的" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="108" width="433" height="104" as="geometry" />
+          <mxGeometry x="-14" y="100" width="433" height="104" as="geometry" />
         </mxCell>
         <mxCell id="9sTnAQBF27aZG5OhYkMY-3" value="距离是一个伪命题，主观意识上的存在" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-12" y="245" width="425" height="81" as="geometry" />
+          <mxGeometry x="-12" y="224" width="425" height="55" as="geometry" />
         </mxCell>
         <mxCell id="9sTnAQBF27aZG5OhYkMY-4" value="状态大于拥有，先追求两个人相处的状态然后再过度到拥有这个标志点（但不要在关系确定前付出太多实质性的东西，否则对方缺乏给更多承诺的理由）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="354" width="420" height="109" as="geometry" />
+          <mxGeometry x="-6.5" y="296" width="420" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-5" value="从哲学上讲，我们的一生都无法拥有任何东西，你连自己的生命都抓不住，人的一生必定经历生老病死这个过程" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-5.5" y="400" width="418" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-7" value="距离很大程度上是主观意识的产物，而我们要去追求主观意识可以影响的状态，再从这种状态过度到拥有" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-326" y="179" width="168" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-8" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;fontSize=12;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9sTnAQBF27aZG5OhYkMY-7" target="9sTnAQBF27aZG5OhYkMY-6">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-176" y="217" as="sourcePoint" />
+            <mxPoint x="-49" y="216.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-11" value="并不存在对一个人吸引这件事情，我们从来都不是对一个人吸引，而是对一个人的世界所吸引" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-44" y="569" width="365" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-12" value="无论是顶尖，才艺，还是焦点，本质上吸引他人的都是我们的世界" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-47" y="671" width="372" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-13" value="人一定是在专注的状态下最有魅力，因为在这个下，你跟你从事的这个东西合二为一，从而形成一种非常强大的气场" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-49" y="767" width="371" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-14" value="我们每个人本身就是一团需求，可能有些人会满足我们的需求，而在有些人那里，他们提供不了我们所想要的" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-47" y="881" width="365" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-16" value="恋爱当中的激情，本来就是由三个字驱动，叫做好奇心" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-81" y="1048" width="454" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-17" value="吸引" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-287" y="719" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-18" value="激情" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-289" y="1177" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-19" value="一个人对你的想象空间，就是他对你的想念空间" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-81" y="1135" width="453" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-20" value="所谓的来电或者激情，都不应该成为结婚对象一种主要的考虑因素。因为无论激情再怎么强烈，它都是一种会随时间退散的东西。而是要看与一个人相处是否舒服，就是看跟这个人相处累不累。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-73" y="1225" width="429" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-21" value="其实人和人的相处和交流本身就是很累的，因为大家都有各自不一样的价值观。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-81" y="1415" width="445" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-23" value="一个人在出轨的时候，他心里的利弊权衡是：我在享受原配给我的种种好处之下，找三它是一种刺激或者是锦上添花&lt;br&gt;或者是中了好奇心激情的毒，但是如果这种激情的中毒，是你觉得你可以放下一切去追求的，那么你这辈子可能每两年都需要离一次婚&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-96" y="1648" width="502" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-24" value="任何人的成功或者枝繁叶茂，都离不开周围的人对自己养分的输送&lt;br&gt;如果你觉得你成功之后就可以抛弃之前或者一直在给自己输送养分的这些人，包括你的原配。能有什么理由不去相信，你也可以对你的事业合伙人，对你的员工，客户做出这种不尊重他们的事情呢" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-101.25" y="1782" width="512.5" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-25" value="你可以结束一段关系，但你结束一段关系的前提是你对对方有一个交代" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-105.5" y="1925" width="521" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
