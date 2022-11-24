@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T08:30:18.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="tKEKGWrzBLVp3K5gNxk2" type="github"><diagram id="N5WR_CQhTeOgYyPtE60l">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-24T08:38:26.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="y0MiKSaxyjsQlMZxJfSR" version="20.5.3" type="github">
+  <diagram id="N5WR_CQhTeOgYyPtE60l" name="第 1 页">
+    <mxGraphModel dx="1732" dy="999" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-1" value="距离感逐渐拉进的过程" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-12" y="-1" width="431" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-2" value="吸引是一种误解，无论怎么对一个人吸引，激情都是在两年之内会淡去的" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="108" width="433" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-3" value="距离是一个伪命题，主观意识上的存在" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-12" y="245" width="425" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="9sTnAQBF27aZG5OhYkMY-4" value="状态大于拥有，先追求两个人相处的状态然后再过度到拥有这个标志点（但不要在关系确定前付出太多实质性的东西，否则对方缺乏给更多承诺的理由）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="354" width="420" height="109" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
