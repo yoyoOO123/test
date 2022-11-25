@@ -1,1 +1,306 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T12:19:00.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="VRdcdGLh4w0y2Jbn6RSc" type="github"><diagram id="pjDWqrJyaCyjyPQN59XT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-25T07:45:38.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="GyUPF0pPFSgA5hgUmOcT" version="20.5.3" type="github">
+  <diagram id="pjDWqrJyaCyjyPQN59XT" name="第 1 页">
+    <mxGraphModel dx="2132" dy="599" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-2" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-254" y="95" as="sourcePoint" />
+            <mxPoint x="529" y="98" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-3" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-253" y="175" as="sourcePoint" />
+            <mxPoint x="530" y="178" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-252" y="269" as="sourcePoint" />
+            <mxPoint x="531" y="272" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-8" value="应用层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="446" y="38" width="66" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-9" value="传输层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="427" y="126" width="66" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-10" value="网络层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="429" y="209" width="66" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-11" value="网络接口层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="415" y="284" width="98" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-12" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-4" y="382" as="sourcePoint" />
+            <mxPoint x="296" y="385" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-13" value="物理层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="125" y="399" width="66" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-14" value="数据链路层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="109" y="327" width="98" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-16" value="ARP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2" y="320" width="51" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-17" value="RARP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="245" y="315" width="62" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-18" value="IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="102" y="203" width="33" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-19" value="TCP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-167" y="103" width="50" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-20" value="UDP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="266" y="110" width="52" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-22" value="HTTP&amp;nbsp; &amp;nbsp;TElenet&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-273" y="38" width="132" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-23" value="FTP SMTP POP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-119" y="38" width="135" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-24" value="DNS BOOTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="150" y="38" width="112" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-25" value="TFTP SNMP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="279" y="43" width="108" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-26" value="ARP木马使用ARP欺骗手段破坏客户机建立正确的IP地址和MAC地址对于关系，把虚假的网关MAC地址发送给受害主机" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="316" y="342" width="213" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-27" value="虚拟专用网络（Virtual Private Network，VPN）是在公用网络上建立专用网络的技术。&lt;br&gt;由于整个VPN网络中的任意两个节点之间的连接并没有传统专网所需的端到端的物理链条，而是架构在公用网络服务商所提供的网络平台。实现VPN的关键技术主要有隧道技术，加/解密技术，密钥管理技术和身份认证技术。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="496" width="631" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-28" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-247" y="718" as="sourcePoint" />
+            <mxPoint x="-241" y="1106" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-29" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-113" y="710" as="sourcePoint" />
+            <mxPoint x="-107" y="1114" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-30" value="客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-276" y="674" width="66" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-31" value="服务端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-147" y="677" width="66" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-33" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;fontSize=12;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-233" y="765" as="sourcePoint" />
+            <mxPoint x="-122" y="820" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-35" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;fontSize=12;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-120" y="861" as="sourcePoint" />
+            <mxPoint x="-230" y="934" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-36" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;fontSize=12;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-232" y="980" as="sourcePoint" />
+            <mxPoint x="-121" y="1035" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-39" value="CLOSED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-347" y="719" width="84" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-40" value="CLOSED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-99" y="716" width="84" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-41" value="SYN-SENT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-362" y="840" width="99" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-42" value="LISTEN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-92" y="758" width="74" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-43" value="SYN-RCVD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-99" y="934" width="102" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-44" value="ESTAB-LISHED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-399" y="1024" width="132" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-45" value="ESTAB-LISHED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-94" y="1053" width="132" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-46" value="建立链接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-69" y="1079" width="82" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-47" value="发送SYN=1 SEQ=x" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-392" y="758" width="140" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-48" value="接收SYN" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-106" y="799" width="140" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-51" value="发送SYN=1，ACK=1&lt;br&gt;ACK序号=x+1;收到无错误&lt;br&gt;SEQ序号=y" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-108" y="857" width="266" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-52" value="发送ACK=1&lt;br&gt;SEQ=y+1&lt;br&gt;ACK=x+1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-394" y="930" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-53" value="&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;URG&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;：(&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;URG&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;ent)紧急&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; outline: 0px; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;ACK&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;：(&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;ACK&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;nowledgment)确认&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; outline: 0px; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;PSH&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;：(&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;u&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;SH&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;)推送&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; outline: 0px; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;RST&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;：(&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;R&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;S&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;T&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;)复位&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; outline: 0px; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;SYN&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;：(&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;SYN&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;chronization) 同步&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; outline: 0px; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;FIN&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;:（&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;FIN&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start;&quot;&gt;ish）终止&lt;br&gt;SEQ：自身序列号&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="180" y="825" width="247" height="169" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-54" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-50" y="1265" as="sourcePoint" />
+            <mxPoint x="-47" y="1590" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-55" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="150" y="1262" as="sourcePoint" />
+            <mxPoint x="153" y="1587" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-56" value="ESTAB-LISHED" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-164" y="1269" width="93" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-57" value="ESTAB-LISHED" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1267" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-58" value="FIN-WAIT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="1412" width="89" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-59" value="HALF-CLOSE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="161" y="1387" width="118" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-60" value="LAST-ACK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1471" width="95" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-61" value="CLOSED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-173" y="1544" width="84" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-62" value="CLOSED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="176" y="1539" width="84" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-64" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;fontSize=12;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-39" y="1287" as="sourcePoint" />
+            <mxPoint x="141" y="1294" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-65" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;fontSize=12;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="139" y="1339" as="sourcePoint" />
+            <mxPoint x="-34" y="1422" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-66" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;fontSize=12;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="133" y="1443" as="sourcePoint" />
+            <mxPoint x="-40" y="1526" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-67" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;fontSize=12;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-38" y="1547" as="sourcePoint" />
+            <mxPoint x="142" y="1554" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-68" value="发送FIN=1&lt;br&gt;SEQ=x" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="1277" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-69" value="接收ACK" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-307" y="1405" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-71" value="接收FIN&lt;br&gt;发送ACK=1；&lt;br&gt;ACK序号=x+1;&lt;br&gt;SEQ序号=y" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="266" y="1287" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-73" value="要干嘛SYN&lt;br&gt;序列号" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-571" y="725" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-74" value="接收ACK&lt;br&gt;接收无错误ACK+1&lt;br&gt;序列号&lt;br&gt;要干嘛 SYN" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="59" y="762" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-75" value="接收ACK&lt;br&gt;无错误y+1&lt;br&gt;自身序列号" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-559" y="920" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-76" value="要干嘛FIN 终止连接&lt;br&gt;序列号" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-478" y="1232" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-77" value="接收ACK&lt;br&gt;接收无错误&lt;br&gt;自身序列号" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="434" y="1318" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-78" value="发送ACK=1&lt;br&gt;ACK=z+1；&lt;br&gt;SEQ=x+1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="1523" width="140" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-79" value="发送FIN=1&lt;br&gt;SEQ序号=z&lt;br&gt;ACK序号=x+1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="271" y="1443" width="140" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-80" value="网络安全" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-467" y="2261" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-81" value="计算机网络" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-256" y="2023" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-82" value="Docker" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-256" y="2158" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-83" value="PHP" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-252" y="2311" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-84" value="Java" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-252" y="2464" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-85" value="misc" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-252" y="2612" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-86" value="取证" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="16" y="2600" width="50" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-87" value="隐写" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="18" y="2678" width="50" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-88" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1" target="ZsDdiLVfkzpGeQ0TrC32-86">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-85" y="2649" as="sourcePoint" />
+            <mxPoint x="55" y="2649" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-89" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;entryX=-0.04;entryY=0.323;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZsDdiLVfkzpGeQ0TrC32-87">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-84" y="2662" as="sourcePoint" />
+            <mxPoint x="56" y="2662" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-90" value="七层网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-79" y="2015" width="82" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsDdiLVfkzpGeQ0TrC32-91" value="三次握手" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-71" y="2072" width="82" height="31" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
