@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T07:46:46.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6Qq2eyk_QEKz1O-hb3h1" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-26T08:36:42.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="u-D-P_xGFftBjYXe-GUE" version="20.5.3" type="github" pages="2">
   <diagram id="JRU-SWUjS2kEbNtA_gqK" name="第 1 页">
-    <mxGraphModel dx="1332" dy="-8201" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1085" dy="-8227" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,6 +169,120 @@
         <mxCell id="bJUZTyz4KBUuAPDCv7u7-54" value="在企业中，POP点提供通往外部服务和站点的链路，PoP点可以直接连接到一家或多家互联网服务提供商(ISP)，这样,企业的&#xa;内部用户便可以通过这些链路来访问互联网。企业的远程站点也通过PoP点连接在一起，这些远程站点之间的广域链路由服务商建立。" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1249" y="9685" width="550" height="99" as="geometry" />
         </mxCell>
+        <mxCell id="bJUZTyz4KBUuAPDCv7u7-55" value="1，POP点必须有唯一的IP地址&lt;br&gt;2，POP点的数量是衡量服务器提供商发展的标准&lt;br&gt;3，POP点越近，带宽保障越高（POP点之间的距离越近则线路信息损耗越小）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="9601" width="453" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="mfK9ogHjG1O0XX4QYC6D-1" target="mfK9ogHjG1O0XX4QYC6D-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-1" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2677" y="9229.5" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="mfK9ogHjG1O0XX4QYC6D-2" target="mfK9ogHjG1O0XX4QYC6D-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-2" value="本地DNS服务器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2677" y="9429.5" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-4" value="输入网站域名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2707" y="9351" width="114" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="mfK9ogHjG1O0XX4QYC6D-5" target="mfK9ogHjG1O0XX4QYC6D-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="mfK9ogHjG1O0XX4QYC6D-5" target="mfK9ogHjG1O0XX4QYC6D-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-5" value="判断有无缓存" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2717" y="9629.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="mfK9ogHjG1O0XX4QYC6D-7" target="mfK9ogHjG1O0XX4QYC6D-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2665.319121447028" y="9320.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-7" value="解析后响应用户" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2497" y="9652" width="120" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="mfK9ogHjG1O0XX4QYC6D-9" target="mfK9ogHjG1O0XX4QYC6D-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-9" value="以递归方式向整个DNS系统请求解析，反馈给浏览器" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2897" y="9637" width="217" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-12" value="有" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2665" y="9639.5" width="34" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-14" value="无" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2834" y="9640" width="34" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-18" value="返回域名ip" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="9434" width="94" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-19" value="返回域名ip" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2931" y="9432" width="94" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-21" value="加入CDN" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="3626" y="9207" width="331" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="mfK9ogHjG1O0XX4QYC6D-23" target="mfK9ogHjG1O0XX4QYC6D-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-23" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="3620" y="9424" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-24" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="mfK9ogHjG1O0XX4QYC6D-25" target="mfK9ogHjG1O0XX4QYC6D-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-25" value="本地DNS服务器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="3620" y="9624" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-26" value="输入网站域名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="3650" y="9545.5" width="114" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-27" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="mfK9ogHjG1O0XX4QYC6D-29" target="mfK9ogHjG1O0XX4QYC6D-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-28" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="mfK9ogHjG1O0XX4QYC6D-29" target="mfK9ogHjG1O0XX4QYC6D-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-29" value="判断有无缓存" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3660" y="9824" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="mfK9ogHjG1O0XX4QYC6D-31" target="mfK9ogHjG1O0XX4QYC6D-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3608.319121447028" y="9515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-31" value="解析后响应用户" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3440" y="9846.5" width="120" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="mfK9ogHjG1O0XX4QYC6D-33" target="mfK9ogHjG1O0XX4QYC6D-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-33" value="以递归方式向整个DNS系统请求解析，反馈给浏览器" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3840" y="9831.5" width="217" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-34" value="有" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="3608" y="9834" width="34" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-35" value="无" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="3777" y="9834.5" width="34" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-36" value="返回域名ip" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="3463" y="9628.5" width="94" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="mfK9ogHjG1O0XX4QYC6D-37" value="返回域名ip" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="3874" y="9626.5" width="94" height="31" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UjFk-fBA9VKPhlT9x6ql" name="第 2 页">
+    <mxGraphModel dx="1332" dy="599" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
