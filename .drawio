@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T05:26:36.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="pEdqbyf336hBnX6f1qu2" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-03T05:28:50.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kgjHYMsm0fqIiWiwW3yz" version="20.6.0" type="github" pages="3">
   <diagram id="MnM5SBNu1C_DazowesGT" name="第 1 页">
     <mxGraphModel dx="1332" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a5yKfgacQuSURUw1YSGf" name="第 2 页">
-    <mxGraphModel dx="1732" dy="999" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2532" dy="999" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,6 +95,9 @@
         </mxCell>
         <mxCell id="Ux5eD98d4SqhVp-dQXLP-24" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;-apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif, SimHei, SimSun&quot; color=&quot;#4d4d4d&quot;&gt;被动模式：服务端在指定范围内的某各端口被动等待客户，被动发起连接&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif, SimHei, SimSun&quot; color=&quot;#4d4d4d&quot;&gt;在第一步中，客户端的命令端口与服务器的命令端口建立连接，并发送命令&quot;PASV&quot;。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif, SimHei, SimSun&quot; color=&quot;#4d4d4d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif, SimHei, SimSun&quot; color=&quot;#4d4d4d&quot;&gt;在第二步中，服务器返回命令&quot;PORT 2024&quot;告诉客户端：服务器用哪各端口监听数据连接。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif, SimHei, SimSun&quot; color=&quot;#4d4d4d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif, SimHei, SimSun&quot; color=&quot;#4d4d4d&quot;&gt;在第三步中 ，客户端初始化一个从自己的数据端口到到服务器指定的数据端口的数据连接。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif, SimHei, SimSun&quot; color=&quot;#4d4d4d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif, SimHei, SimSun&quot; color=&quot;#4d4d4d&quot;&gt;在第四步中，服务器给客户端的数据端口返回一个&quot;ACK&quot;响应。&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1224" y="501" width="541" height="264" as="geometry" />
+        </mxCell>
+        <mxCell id="UPn0QA1tyYx-nu20pWW6-2" value="&lt;div&gt;1，协议开销小、效率高。&lt;/div&gt;&lt;div&gt;2，UDP是无连接的，即发送数据之前不需要建立连接。&lt;/div&gt;&lt;div&gt;3，UDP使用尽最大努力交付，即不保证可靠交付。&lt;/div&gt;&lt;div&gt;4，UDP没有拥塞控制。&lt;/div&gt;&lt;div&gt;5，UDP支持一对一、一对多、多对一和多对多交互通信。&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;6，UDP的首部开销小，只有8个字节。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-811" y="-40" width="447" height="152" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
